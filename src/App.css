@@ -1,0 +1,65 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+:root {
+  --bs-body-bg: #00274c;
+  --michblue: #00274c;
+  --michgold: #ffcb05;
+  --inputgrey: rgba(217, 217, 217, 0.5);
+  --delete-btn: #d11a2a;
+}
+
+body {
+  /* background-image: url(assets/images/); */
+  min-height: 400px;
+  margin-bottom: 100px;
+  clear: both;
+}
+.btn-gold:hover {
+  background-color: rgba(255, 208, 30, 0.75);
+}
+
+#facebookBtn:hover {
+  background-color: rgb(217, 217, 217);
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: #ffcb05;
+}
+
+input[type="range"] {
+  accent-color: #ffcb05;
+}
+
+.outlined-text {
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.outlined-text-gold {
+  text-shadow: -1px -1px 0 #ffcb05, 1px -1px 0 #ffcb05, 1px 1px 0 #ffcb05,
+    1px 1px 0 #ffcb05;
+}
+
+.temperBtn {
+  --bs-btn-color: #000;
+  --bs-btn-bg: #ffcb05;
+  --bs-btn-border-color: #8a7b3e;
+  --bs-btn-hover-color: #000;
+  --bs-btn-hover-bg: #7a6203;
+  --bs-btn-hover-border-color: #25cff2;
+  --bs-btn-focus-shadow-rgb: 11, 172, 204;
+  --bs-btn-active-color: #000;
+  --bs-btn-active-bg: #7a6203;
+  --bs-btn-active-border-color: #7a6203;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #000;
+  --bs-btn-disabled-bg: #0dcaf0;
+  --bs-btn-disabled-border-color: #0dcaf0;
+} */
